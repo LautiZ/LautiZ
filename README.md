@@ -52,7 +52,7 @@
                
 <h3 align="center">Backend Argentina Programa</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/sXlrUIk.jpeg" width="400" height="212" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/sXlrUIk.jpeg" width="400" height="212" alt="Curso arquitectura MVVM" style="object-fit: cover;"></a>
 <br>
 <p>
 <a href="https://github.com/LautiZ/Backend-ArgPrograma-Final" target="_blank">
