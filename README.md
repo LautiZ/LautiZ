@@ -1,7 +1,10 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/lautaro-zullo-961288195/">Lautaro Zullo</a>🚀</h1>
 </div>
-<img src="https://i.imgur.com/ZvElmvY.png" style="width: 100%; height: 400px; object-fit: cover;">
+
+<div align="center">
+<img src="https://i.imgur.com/ZvElmvY.png" style="width: 100%; height: 400px; object-fit: contain;">
+</div>
 
 ## Sobre mi
 
