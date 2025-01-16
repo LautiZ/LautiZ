@@ -21,57 +21,6 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-
-## Projects
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Curso NestJS</h3>
-<div align="center">
-<a href="https://github.com/LautiZ/NestJS-cats-mysql-docker-backend-curso-ytbw" target="_blank">Link al repo</a>
-<p>
-<a href="https://github.com/LautiZ/NestJS-cats-mysql-docker-backend-curso-ytbw" target="_blank">
-<img src="https://img.shields.io/badge/code-FFF?style=social&logo=github&logoColor=black&logoSize=auto&labelColor=FFF&color=white">
-</a>
-</a>
-</p>
-<p>
-  <strong>Technologies</strong>
-  <br>
-  🔥 NestJS
-  - TypeORM
-  - Docker
-  - JWT 🔥
-</p>
-</div>
-                                                                                      
-</td>
-
-<td width="50%">
-               
-<h3 align="center">Backend Argentina Programa</h3>
-<div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">Link al repo</a>
-<br>
-<p>
-<a href="https://github.com/LautiZ/Backend-ArgPrograma-Final" target="_blank">
-<img src="https://img.shields.io/badge/code-FFF?style=social&logo=github&logoColor=black&logoSize=auto&labelColor=FFF&color=white">
-</a>
-</p>
-<p>
-  <strong>Technologies</strong>
-  <br>
-  🔥 Java
-  - Springboot
-  - JWT 🔥
-</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
-
-                                                                          
-</div>
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
