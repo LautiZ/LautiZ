@@ -2,10 +2,6 @@
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/lautaro-zullo-961288195/">Lautaro Zullo</a>🚀</h1>
 </div>
 
-<div align="center">
-<img src="https://i.imgur.com/ZvElmvY.png" style="width: 100%; height: 450px;">
-</div>
-
 ## Sobre mi
 
 - 💻 Backend developer
@@ -32,7 +28,7 @@
 <td width="50%">
 <h3 align="center">Curso NestJS</h3>
 <div align="center">
-<a href="https://github.com/LautiZ/NestJS-cats-mysql-docker-backend-curso-ytbw" target="_blank"><img src="https://i.imgur.com/bNLOJf6.png" width="400"  alt="Curso NestJS"></a>
+<a href="https://github.com/LautiZ/NestJS-cats-mysql-docker-backend-curso-ytbw" target="_blank">Link al repo</a>
 <p>
 <a href="https://github.com/LautiZ/NestJS-cats-mysql-docker-backend-curso-ytbw" target="_blank">
 <img src="https://img.shields.io/badge/code-FFF?style=social&logo=github&logoColor=black&logoSize=auto&labelColor=FFF&color=white">
@@ -55,7 +51,7 @@
                
 <h3 align="center">Backend Argentina Programa</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/sXlrUIk.jpeg" width="400" height="212" alt="Curso arquitectura MVVM" style="object-fit: cover;"></a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">Link al repo</a>
 <br>
 <p>
 <a href="https://github.com/LautiZ/Backend-ArgPrograma-Final" target="_blank">
