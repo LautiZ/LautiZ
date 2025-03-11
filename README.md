@@ -6,7 +6,8 @@
 
 - 💻 Backend developer
 - 🐍 Django Python
-- ✨ Getting started in NodeJs
+- 🔥 NodeJs JavaScript
+- ✨ Getting started in NestJs / TypeScript
 <br>
 
 ### Languages and Tools 🛠 
