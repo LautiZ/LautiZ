@@ -20,8 +20,6 @@
 - 💼 Última experiencia en el rubro logístico: microservicios en Node.js/Express, MySQL, autenticación OAuth, y administración de Kubernetes en el ambiente productivo.
 - 🚀 Aplico esa experiencia en **Fenis**, un backend de logística propio construido desde cero con **NestJS + TypeScript** y arquitectura de microservicios, como proyecto personal de portfolio.
 - 🤖 Especializado en **automatización inteligente con n8n**: flujos y agentes de IA que integran APIs, bases de datos y modelos de lenguaje.
-- 🎓 Cursando la Tecnicatura Universitaria en Programación (UTN) — promedio 9.08.
-- 🇪🇸 Ciudadanía española en trámite — abierto a oportunidades remotas en España / UE.
 
 ## 🛠️ Stack
 
