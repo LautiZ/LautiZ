@@ -48,6 +48,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+## 🏯 Contribuciones
+
+<p align="left">
+<a href="https://github.com/LautiZ">
+  <img src="/metrics.plugin.isocalendar.svg" alt="Isometric commit calendar de LautiZ"/>
+</a>
+</p>
+
 ## 🚀 Proyectos destacados
 
 ### 🔥 Fenis — Backend de logística en microservicios
@@ -76,12 +84,6 @@ API REST construida con **NestJS**, autenticación **JWT** y despliegue con **Do
 <a href="https://github.com/LautiZ">
   <img height="180em" src="https://github-stats-extended.vercel.app/api/?username=lautiz&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=LautiZ%27s+Stats&disable_animations=false&number_format=long&show=prs_merged_percentage,prs_reviewed"/>
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lautiz&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=LautiZ%27s+Stats&disable_animations=false&number_format=long&show=prs_merged_percentage,prs_reviewed"/>
-</a>
-</p>
-
-<p align="left">
-<a href="https://github.com/LautiZ">
-  <img src="/metrics.plugin.isocalendar.svg" alt="Isometric commit calendar de LautiZ"/>
 </a>
 </p>
 
